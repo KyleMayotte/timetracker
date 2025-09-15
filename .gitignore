@@ -188,6 +188,7 @@ pip-selfcheck.json
 # End of https://www.toptal.com/developers/gitignore/api/python,venv
 
 # Google API creds
+client_secret.json
 credentials.json
 token.json
 .env
