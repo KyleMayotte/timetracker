@@ -3,7 +3,7 @@
 Tracks how you *actually* spend time by reading Google Calendar events and rolling up hours by category (via color labels).
 
 ## Demo
-- 🎥 <img width="800" height="1045" alt="image" src="https://github.com/user-attachments/assets/b5d3cb44-a145-4401-b430-c78dfc0cdfe1" />
+- 🎥 Run weekly_calendar_color.py then run simple_color_hours.py to turn the hours into readible activities.
       <img width="642" height="456" alt="image" src="https://github.com/user-attachments/assets/8c835709-b8d6-431b-81b6-b8be68b85f49" />
 
 
